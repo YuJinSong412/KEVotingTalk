@@ -1,4 +1,3 @@
-# KEVotingTalk
 <h1>KEVotingTalk</h1>
 
 * 자바 스윙을 이용한 소켓 채팅 프로그램

@@ -47,6 +47,3 @@
 macOS mysql 설치 & eclipse java 연동 : https://song-yujin.tistory.com/5?category=815435  
 -> 윈도우 환경에서도 비슷하다! <br>
 블로그 업로드 : https://song-yujin.tistory.com/7?category=815435
-
-
-![bb](/uploads/ca9a2d1640b660ac5e81b362909407b7/bb.PNG)

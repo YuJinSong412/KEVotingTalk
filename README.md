@@ -47,3 +47,7 @@
 macOS mysql 설치 & eclipse java 연동 : https://song-yujin.tistory.com/5?category=815435  
 -> 윈도우 환경에서도 비슷하다! <br>
 블로그 업로드 : https://song-yujin.tistory.com/7?category=815435
+
+<div>
+  <img width="890" alt="스크린샷 2020-12-21 오후 1 53 25" src="https://user-images.githubusercontent.com/35487542/102740798-f5eaee80-4393-11eb-88d6-2a4e89e00d3d.png">
+</div>
